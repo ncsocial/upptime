@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: nc.social
     url: https://nc.social
+  - name: nc.social streaming api 
+    url: https://nc.social/api/v1/streaming/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -12,9 +14,9 @@ status-website:
   cname: status.nc.social
   # baseUrl: /
   logoUrl: https://static.nc.social/site_uploads/files/000/000/001/@2x/25bfd81769ee3bd3.png
-  name: Upptime
+  name: nc.social status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page for nc.social which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page for nc.social which uses **real-time** data from our [GitHub repository](https://github.com/ncsocial/upptime).
   navbar:
     - title: Status
       href: /
