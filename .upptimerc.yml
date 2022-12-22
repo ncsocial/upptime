@@ -4,9 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: nc.social
-    url: https://nc.social
+    url: https://nc.social/health
   - name: nc.social streaming api 
     url: https://nc.social/api/v1/streaming/health
+  - name: nc.social wiki
+    url: https://about.nc.social
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
