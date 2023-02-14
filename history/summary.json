@@ -40,17 +40,19 @@
     "url": "https://about.nc.social",
     "icon": "https://icons.duckduckgo.com/ip3/about.nc.social.ico",
     "slug": "nc-social-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 518,
-    "timeDay": 192,
-    "timeWeek": 386,
-    "timeMonth": 641,
-    "timeYear": 518,
-    "dailyMinutesDown": {}
+    "time": 691,
+    "timeDay": 5364,
+    "timeWeek": 1655,
+    "timeMonth": 932,
+    "timeYear": 691,
+    "dailyMinutesDown": {
+      "2023-02-14": 0
+    }
   }
 ]
