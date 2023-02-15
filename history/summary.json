@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
-    "timeDay": 280,
-    "timeWeek": 290,
-    "timeMonth": 329,
+    "timeDay": 290,
+    "timeWeek": 294,
+    "timeMonth": 330,
     "timeYear": 342,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 53,
-    "timeDay": 84,
-    "timeWeek": 67,
+    "timeDay": 87,
+    "timeWeek": 68,
     "timeMonth": 54,
     "timeYear": 53,
     "dailyMinutesDown": {}
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/about.nc.social.ico",
     "slug": "nc-social-wiki",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 835,
-    "timeDay": 4318,
-    "timeWeek": 2191,
-    "timeMonth": 1150,
-    "timeYear": 835,
-    "dailyMinutesDown": {
-      "2023-02-14": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 826,
+    "timeDay": 4335,
+    "timeWeek": 2176,
+    "timeMonth": 1153,
+    "timeYear": 826,
+    "dailyMinutesDown": {}
   }
 ]
