@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 364,
-    "timeWeek": 340,
-    "timeMonth": 301,
-    "timeYear": 334,
+    "time": 338,
+    "timeDay": 710,
+    "timeWeek": 391,
+    "timeMonth": 312,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 54,
-    "timeDay": 60,
-    "timeWeek": 67,
+    "timeDay": 83,
+    "timeWeek": 71,
     "timeMonth": 62,
     "timeYear": 54,
     "dailyMinutesDown": {}
@@ -42,17 +42,15 @@
     "slug": "nc-social-wiki",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 893,
-    "timeDay": 5608,
-    "timeWeek": 2037,
-    "timeMonth": 1399,
-    "timeYear": 893,
-    "dailyMinutesDown": {
-      "2023-03-06": 5
-    }
+    "time": 886,
+    "timeDay": 5650,
+    "timeWeek": 2028,
+    "timeMonth": 1400,
+    "timeYear": 886,
+    "dailyMinutesDown": {}
   }
 ]
