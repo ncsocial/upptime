@@ -42,17 +42,15 @@
     "slug": "nc-social-wiki",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 838,
     "timeDay": 343,
     "timeWeek": 1722,
     "timeMonth": 1316,
     "timeYear": 838,
-    "dailyMinutesDown": {
-      "2023-03-11": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
