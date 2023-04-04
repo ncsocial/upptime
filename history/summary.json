@@ -6,16 +6,18 @@
     "slug": "nc-social",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 249,
-    "timeWeek": 365,
-    "timeMonth": 341,
-    "timeYear": 335,
-    "dailyMinutesDown": {}
+    "time": 336,
+    "timeDay": 348,
+    "timeWeek": 375,
+    "timeMonth": 344,
+    "timeYear": 336,
+    "dailyMinutesDown": {
+      "2023-04-04": 4
+    }
   },
   {
     "name": "nc.social streaming api",
